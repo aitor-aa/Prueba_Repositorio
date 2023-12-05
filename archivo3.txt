@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Creo en master
+=======
+Creo archivo en pruebas3
+Otro texto
+>>>>>>> pruebas3
